@@ -1,0 +1,234 @@
+Title;Category;Subcategory;Class;IT Application Technology;IT Management & Support Processes;IT External Supply Chain;IT Engineering;IT Internal Supply Chain;IT Desktop Mgmt. & Support;IT Data Center;IT Network & Communication;IT Cross-functional solutions;IT PMO Operational;IT Processes & Rules;Local Infr. / Apps ME;Local Infr. / Apps EE;Local Infr. / Apps SE;Local Infr. / Apps KANA;IT Global Applications SE;IT Global Applications EE;IT Global Applications ME;IT Global Application KANA;AITS Support (external);LOB;LOB Comment;Useful links & Comments;Item Type;Path
+B2B Portals;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+BI (Reporting);;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Client Hardware;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Collaboration Applications;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Datacenter;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Engineering Applications;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Global Business Applications;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+IT Security;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+IT-Service Applications;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Local Business Applications;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Network;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Client Software;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Serverapplications;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Shopfloor / Production;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+System Monitoring;;;;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+JLR - Enerjyhub;B2B Portals;JLR - Enerjyhub;Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;Jaguar Land Rover Customer Portal;"
+";Element;IT/Lists/RASCI  POC
+Cognos/TM1;BI (Reporting);Cognos/TM1;Application;-;R;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Cubeware;BI (Reporting);Cubeware;Application;-;R;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Data Warehouse Factory;BI (Reporting);Data Warehouse Factory;Application;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+ELKOM Excel AddOn;BI (Reporting);ELKOM Excel AddOn;Application;-;R;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Oracle EPM;BI (Reporting);Oracle EPM;Application;-;R;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Oracle EPM;BI (Reporting);Oracle EPM;Application;-;R;-;-;-;-;I;I;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Qlik;BI (Reporting);Qlik;Application;-;R;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+TIS (Qlik App);BI (Reporting);TIS (Qlik App);Application;-;C;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Exchange Mailbox Administration;Client Software;Exchange Mailbox Administration;Application;-;-;-;-;-;A;C;-;-;C;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+MS-Office (Suite);Client Software;MS-Office (Suite);Application;-;-;-;-;-;A;C;-;-;C;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+MS-Outlook;Client Software;MS-Outlook;Application;-;-;-;-;-;A;C;-;-;C;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+other client software;Client Software;other client software;Application;-;-;-;-;-;A;C;-;-;C;-;R;R;R;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Standard Software from Catalogue;Client Software;Standard Software from Catalogue;Application;-;-;-;-;-;A;C;-;-;C;-;S;S;S;S;C;C;C;-;-;-;;;Element;IT/Lists/RASCI  POC
+Code2/Email Signature;Collaboration Applications;Code2/Email Signature;Application;-;A;-;-;-;-;S;-;S;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Condeco (Desksharing);Collaboration Applications;Condeco (Desksharing);Application;-;A;-;-;-;S;R;-;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Exchange Server;Collaboration Applications;Exchange Server;Application;-;-;-;-;-;-;A;-;C;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Intranet (K-NET);Collaboration Applications;Intranet (K-NET);Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+MIRO WhiteBoard;Collaboration Applications;MIRO WhiteBoard;Application;-;-;-;-;-;I;-;-;I;-;-;-;-;-;-;-;-;-;-;-;A;Björn Wollny, Kevin Berk;;Element;IT/Lists/RASCI  POC
+MS-Teams;Collaboration Applications;MS-Teams;Application;-;-;-;-;-;I;R;-;-;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+O365;Collaboration Applications;O365;Application;-;R;-;-;-;I;-;-;-;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Sharepoint Basicadminstration;Collaboration Applications;Sharepoint Basicadminstration;Application;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Sharepoint development and processes;Collaboration Applications;Sharepoint development and processes;Application;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Skype/Lync;Collaboration Applications;Skype/Lync;Application;-;-;-;-;-;C;A;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+CAx (Catia/NX/Visi);Engineering Applications;CAx (Catia/NX/Visi);Application;-;-;-;A;-;-;-;-;-;-;-;S;S;S;S;-;-;-;-;-;R;CAD;;Element;IT/Lists/RASCI  POC
+CES (Calculation);Engineering Applications;CES (Calculation);Application;S;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Cimatron;Engineering Applications;Cimatron;Application;-;-;-;I;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;Process Development;;Element;IT/Lists/RASCI  POC
+CimDatabase Converter;Engineering Applications;CimDatabase  Converter;Application;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+CimDataBase App - CDB;Engineering Applications;CimDataBase App - CDB;Application;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;R;;;Element;IT/Lists/RASCI  POC
+ECN - Engineering Change Notification;Engineering Applications;ECN - Engineering Change Notification;Application;R;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+IdeaFox;Engineering Applications;IdeaFox;Application;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Licensemanager CAX;Engineering Applications;Licensemanager CAX;Application;-;-;-;A;-;-;-;-;-;-;-;-;S;-;S;C;C;C;-;-;S;CAD;;Element;IT/Lists/RASCI  POC
+PBS/Pamstamp (Head Node);Engineering Applications;PBS/Pamstamp (Head Node);Application;-;-;-;A;-;-;R;-;-;-;-;-;-;-;-;-;I;I;-;-;-;;;Element;IT/Lists/RASCI  POC
+PBS/Pamstamp (Node);Engineering Applications;PBS/Pamstamp (Node);Application;-;-;-;A;-;-;R;-;-;-;-;-;-;-;-;-;I;I;-;-;-;;;Element;IT/Lists/RASCI  POC
+Spinfire (Viewer);Engineering Applications;Spinfire (Viewer);Application;-;-;-;A;-;-;-;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Teamcenter (Siemens);Engineering Applications;Teamcenter (Siemens);Application;-;-;-;I;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;CAD;;Element;IT/Lists/RASCI  POC
+Tru Fusion (CAD Data transfer);Engineering Applications;Tru Fusion (CAD Data transfer);Application;-;-;-;I;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;CAD;;Element;IT/Lists/RASCI  POC
+WIAM (Material Database);Engineering Applications;WIAM (Material Database);Application;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Workspace Manager;Engineering Applications;Workspace Manager;Application;-;-;-;A;-;S;-;-;-;-;-;S;S;S;S;-;-;-;-;-;I;CAD;;Element;IT/Lists/RASCI  POC
+Bensberg SBI;Global Business Applications;Bensberg SBI;Application;-;R;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+CAQ/PMM (Prüfmittelverwaltung);Global Business Applications;CAQ/PMM (Prüfmittelverwaltung);Application;-;-;-;-;-;-;-;-;-;-;-;S;S;S;S;S;S;S;-;-;-;;;Element;IT/Lists/RASCI  POC
+CRM (Coconutbox);Global Business Applications;CRM (Coconutbox);Application;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;Sales;;Element;IT/Lists/RASCI  POC
+Docusign (Documentworkflow);Global Business Applications;Docusign (Documentworkflow);Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;Konieczny, Radoslaw (PL);;Element;IT/Lists/RASCI  POC
+GoBench;Global Business Applications;GoBench;Application;-;-;-;R;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;Product Management, Quality;;Element;IT/Lists/RASCI  POC
+K-People;Global Business Applications;K-People;Application;-;C;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;HR (assign to group K-People);Link to Application;Element;IT/Lists/RASCI  POC
+Mobisys;Global Business Applications;Mobisys;Application;I;-;-;-;-;-;-;-;-;-;-;-;-;-;I;-;-;-;I;-;-;;;Element;IT/Lists/RASCI  POC
+myBusiness.AI (Layer Audit);Global Business Applications;myBusiness.AI (Layer Audit);Application;-;-;-;-;-;-;-;-;-;-;-;S;S;S;-;C;C;C;-;-;A;;;Element;IT/Lists/RASCI  POC
+P4T/Jaggaer (Purchasing);Global Business Applications;P4T/Jaggaer (Purchasing);Application;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+PiWeb;Global Business Applications;PiWeb;Application;-;-;-;-;-;-;-;-;-;-;-;S;S;S;-;-;-;-;S;S;A;Quality Planning;;Element;IT/Lists/RASCI  POC
+Quality System;Global Business Applications;Quality System;Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;I;I;I;I;-;-;;;Element;IT/Lists/RASCI  POC
+Thingworks (DiGi-middleware);Global Business Applications;Thingworks (DiGi-middleware);Application;-;-;-;R;-;-;C;-;-;-;-;-;-;-;-;I;I;I;-;-;A;;;Element;IT/Lists/RASCI  POC
+TTS (e-learning) / Knowledge Force;Global Business Applications;TTS (e-learning) / Knowledge Force;Application;-;C;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;HR (assign to group TTS);;Element;IT/Lists/RASCI  POC
+WEB-EDI;Global Business Applications;WEB-EDI;Application;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+xFlow (Invoice Management);Global Business Applications;xFlow (Invoice Management);Application;-;R;-;S;-;-;-;-;-;-;-;S;-;-;-;-;-;-;-;-;A;Administration (assign to group X-Flow);;Element;IT/Lists/RASCI  POC
+ASSP-Spamfilter;IT Security;ASSP-Spamfilter;Application;-;-;-;-;-;I;C;-;A;I;I;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+ISMS - Information Security Management System;IT Security;ISMS - Information Security Management System;Application;-;-;-;-;-;I;-;-;-;-;A;C;C;C;C;I;I;I;I;-;-;;;Element;IT/Lists/RASCI  POC
+TMG (Mailgateway);IT Security;TMG (Mailgateway);Application;-;-;-;-;-;-;C;-;A;I;I;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Trend Micro;IT Security;Trend Micro;Application;-;-;-;-;-;I;A;-;C;I;I;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+I-Doit (IT-Documentation Tool);IT-Service Applications;I-Doit (IT-Documentation Tool);Application;-;-;-;-;-;C;A;C;C;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+MDM-Mobile Device Management;IT-Service Applications;MDM-Mobile Device Management;Application;-;-;-;-;-;A;-;-;C;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Mobicontrol;IT-Service Applications;Mobicontrol;Application;-;-;-;-;-;A;-;-;C;-;-;R;S;S;S;I;I;I;I;-;-;;;Element;IT/Lists/RASCI  POC
+Servicedesk Plus (Ticketsystem);IT-Service Applications;Servicedesk Plus (Ticketsystem);Application;I;I;I;I;-;R;I;I;I;I;A;I;I;I;I;I;I;I;I;-;-;;;Element;IT/Lists/RASCI  POC
+Servicedesk Plus Processes;IT-Service Applications;Servicedesk Plus Processes;Application;I;I;I;I;-;I;I;I;C;I;A;I;I;I;I;I;I;I;I;-;-;;;Element;IT/Lists/RASCI  POC
+Softwaredeployment - Packaging;IT-Service Applications;Softwaredeployment - Packaging;Application;-;-;-;-;-;A;-;-;-;-;-;S;I;I;S;-;-;-;-;-;S;CAD;;Element;IT/Lists/RASCI  POC
+Softwaredeployment (Empirum/SCCM) - Admin;IT-Service Applications;Softwaredeployment (Empirum/SCCM) - Admin;Application;-;-;-;-;-;A;C;-;-;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Teamviewer;IT-Service Applications;Teamviewer;Application;-;-;-;-;-;A;-;-;C;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Clarity;Local Business Applications;Clarity;Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;A;CA HR / Payroll;;Element;IT/Lists/RASCI  POC
+defective material notice (DMN);Local Business Applications;defective material notice (DMN);Application;C;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Dovico Timesheet (Timemanagement);Local Business Applications;Dovico Timesheet (Timemanagement);Application;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+HR One;Local Business Applications;HR One;Application;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;-;-;-;A;China HR / Payroll;;Element;IT/Lists/RASCI  POC
+Lanus;Local Business Applications;Lanus;Application;-;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;-;-;A;Hungary HR / Payroll;;Element;IT/Lists/RASCI  POC
+NEXONBér;Local Business Applications;NEXONBér;Application;-;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;-;-;A;Hungary HR / Payroll;;Element;IT/Lists/RASCI  POC
+Paisy (HR);Local Business Applications;Paisy (HR);Application;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;-;-;-;A;HR;;Element;IT/Lists/RASCI  POC
+Paycor;Local Business Applications;Paycor;Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;A;US HR / Payroll;;Element;IT/Lists/RASCI  POC
+PLM-NewToolshop-ATT;Local Business Applications;PLM-NewToolshop-ATT;Application;-;-;-;-;-;-;R;-;-;-;-;S;-;-;-;-;-;-;-;-;A;New Toolshop in Attendorn;;Element;IT/Lists/RASCI  POC
+Quality Measure Software;Local Business Applications;Quality Measure Software;Application;-;-;-;-;-;-;-;-;-;-;-;S;S;S;S;C;C;C;-;-;A;Quality;;Element;IT/Lists/RASCI  POC
+Sage Payroll;Local Business Applications;Sage Payroll;Application;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;-;-;-;A;Ireland HR / Payroll;;Element;IT/Lists/RASCI  POC
+SAL;Local Business Applications;SAL;Application;-;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;-;-;A;Romania HR / Payroll;;Element;IT/Lists/RASCI  POC
+S-Check (TIA) HR;Local Business Applications;S-Check (TIA) HR;Application;-;-;-;-;-;-;-;-;-;-;-;R;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+S-Check (TIA) Vendor/Customer;Local Business Applications;S-Check (TIA) Vendor/Customer;Application;-;-;-;-;-;-;-;-;-;-;-;R;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Simple (Poland) (HR);Local Business Applications;Simple (Poland) (HR);Application;-;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;-;-;A;HR;;Element;IT/Lists/RASCI  POC
+Tress;Local Business Applications;Tress;Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;A;MX HR / Payroll;;Element;IT/Lists/RASCI  POC
+Truck Guidance System;Local Business Applications;Truck Guidance System;Application;-;-;-;-;-;-;C;-;I;-;-;S;-;-;-;-;-;-;-;-;A;Logistics Attendorn;;Element;IT/Lists/RASCI  POC
+uMan RH;Local Business Applications;uMan RH;Application;-;-;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;-;A;Portugal HR / Payroll;;Element;IT/Lists/RASCI  POC
+Zeus (Timemanagement/Access control);Local Business Applications;Zeus (Timemanagement/Access control);Application;-;-;-;-;-;-;-;-;-;-;-;S;-;-;-;-;-;-;-;-;A;HR;;Element;IT/Lists/RASCI  POC
+Aspera SAP License Management;SAP;Aspera SAP License Management;Application;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Opra (Plant Maintenance);SAP;Opra (Plant Maintenance);Application;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+PBS Archiving;SAP;PBS Archiving;Application;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP basic components (BC);SAP;SAP basic components (BC);Application;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP EDI Customer;SAP;SAP EDI Customer;Application;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;S;S;-;;;Element;IT/Lists/RASCI  POC
+SAP EDI Supplier;SAP;SAP EDI Supplier;Application;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;C;Purchasing, Logistics;;Element;IT/Lists/RASCI  POC
+SAP Finance and Controlling;SAP;SAP Finance and Controlling;Application;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Learning Hub;SAP;SAP Learning Hub;Application;-;-;-;-;-;-;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Masterdata Management;SAP;SAP Masterdata Management;Application;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Material Management (MM);SAP;SAP Material Management (MM);Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Material Planning and Release (MRP);SAP;SAP Material Planning and Release (MRP);Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Plant Maintenance;SAP;SAP Plant Maintenance;Application;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Procurement;SAP;SAP Procurement;Application;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Production Planning;SAP;SAP Production Planning;Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Quality Management;SAP;SAP Quality Management;Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Sales and Distribution;SAP;SAP Sales and Distribution;Application;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Treasury /Serrala;SAP;SAP Treasury /Serrala;Application;-;C;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;Treasury;;Element;IT/Lists/RASCI  POC
+SAP Warehousemanagement (WM);SAP;SAP Warehousemanagement (WM);Application;-;-;-;-;R;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Web IDE;SAP;SAP Web IDE;Application;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAST/GRC Akquinet;SAP;SAST/GRC Akquinet;Application;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Solution Manager Charm;SAP;Solution Manager Charm;Application;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Solution Manager Monitoring;SAP;Solution Manager Monitoring;Application;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+LiquidFiles;Serverapplications;LiquidFiles;Application;-;-;-;I;-;I;A;-;C;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Netvault;Serverapplications;Netvault;Application;-;-;-;-;-;I;A;-;-;-;-;S;S;S;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Saperion;Serverapplications;Saperion;Application;A;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;-;S;;;Element;IT/Lists/RASCI  POC
+SEP;Serverapplications;SEP;Application;-;-;-;-;-;I;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Symantec Enterprise Vault;Serverapplications;Symantec  Enterprise Vault;Application;-;-;-;-;-;I;A;-;-;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Action plan;Shopfloor / Production;Action plan;Application;R;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Andon;Shopfloor / Production;Andon;Application;R;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Hydra (BDE/MDE);Shopfloor / Production;Hydra (BDE/MDE);Application;I;-;-;-;A;-;-;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Hydra CAQ;Shopfloor / Production;Hydra CAQ;Application;-;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Hydra server (core application);Shopfloor / Production;Hydra server (core application);Application;-;-;-;-;A;-;R;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Mobisys (Scanner and Tablets);Shopfloor / Production;Mobisys (Scanner and Tablets);Application;S;-;R;-;A;C;-;S;-;-;-;S;S;S;S;S;S;S;-;-;-;;;Element;IT/Lists/RASCI  POC
+QIMS;Shopfloor / Production;QIMS;Application;-;S;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Regis;Shopfloor / Production;Regis;Application;S;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+RFID-Systems;Shopfloor / Production;RFID-Systems;Application;-;-;-;A;-;-;-;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Scio;Shopfloor / Production;Scio;Application;S;-;-;-;I;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+SFM (Shopfloormanagement);Shopfloor / Production;SFM (Shopfloormanagement);Application;I;-;-;-;-;-;-;-;-;-;-;I;I;I;I;I;I;I;-;-;-;;;Element;IT/Lists/RASCI  POC
+SIEM (Elastic Search);System Monitoring;SIEM (Elastic Search);Application;-;-;-;-;-;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Password self Service (PSS);SAP;SAP Password self Service (PSS);Application;A;I;I;I;I;I;-;-;-;-;-;I;I;I;I;I;I;I;I;-;-;;;Element;IT/Lists/RASCI  POC
+CBS e-invoicing;SAP;CBS e-invoicing;Application;-;S;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;shared service center;;Element;IT/Lists/RASCI  POC
+Aciveguard;IT Security;Aciveguard;Application;-;-;-;-;-;I;C;-;A;I;I;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Microsoft Defender;IT Security;Microsoft Defender;Application;-;-;-;-;-;C;S;-;A;I;I;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Alpas;Engineering Applications;Alpas;Application;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;R;;;Element;IT/Lists/RASCI  POC
+Worksmile (HR - PL);Local Business Applications;Worksmile (HR - PL);Application;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;R;Urszula Balcerek;;Element;IT/Lists/RASCI  POC
+Alphabot;SAP;Alphabot;Application;-;C;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;A;Andrusiewicz, Grzegorz (PL) or Thomas Morrys;;Element;IT/Lists/RASCI  POC
+SAP Device Management (Printer + Scanner);SAP;SAP basic components (BC);Service;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;R;-;;;Element;IT/Lists/RASCI  POC
+Adient;B2B Portals;Adient;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+COVISINT Corporation;B2B Portals;COVISINT Corporation;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;LOB responsible IT External Supply Chain - Rafa³ Steczkiewicz Team;Element;IT/Lists/RASCI  POC
+DAF eportal;B2B Portals;DAF eportal;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Daimler;B2B Portals;Daimler;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+FORD - COVISINT Corporation;B2B Portals;FORD - COVISINT Corporation;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;LOB responsible IT External Supply Chain  - Rafa³ Steczkiewicz Team;Element;IT/Lists/RASCI  POC
+Kia / Hyundai;B2B Portals;Kia /  Hyundai;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Lear Supplier Relationship management;B2B Portals;Lear Supplier Relationship management;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+MAGNA international;B2B Portals;MAGNA international;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Material Daten System;B2B Portals;Material Daten System;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Partner Portal of the BMW Group.;B2B Portals;Partner Portal of the BMW Group.;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+PSA-Peugeot/Citröen;B2B Portals;PSA-Peugeot/Citröen;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+RENAULT B2B portal;B2B Portals;RENAULT B2B portal;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+SupplyOn;B2B Portals;SupplyOn;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Valeo;B2B Portals;Valeo;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Visteon Report Card;B2B Portals;Visteon Report Card;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Volkswagen group;B2B Portals;Volkswagen group;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;Resposnible group:DE-ATT-VW-TEAM@kirchhoff-automotive.com;Element;IT/Lists/RASCI  POC
+Volvo Cars;B2B Portals;Volvo Cars;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Volvo Truck;B2B Portals;Volvo Truck;System;-;-;-;-;-;-;-;C;-;-;-;-;-;-;-;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Camera/Webcam;Client Hardware;Camera/Webcam;System;-;-;-;-;-;A;-;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Headset;Client Hardware;Headset;System;-;-;-;-;-;A;-;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Hydraterminal;Client Hardware;Hydraterminal;System;-;-;-;-;-;A;-;C;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+PC/Laptop;Client Hardware;PC/Laptop;System;-;-;-;-;-;A;C;C;C;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+PC-Monitor;Client Hardware;PC-Monitor;System;-;-;-;-;-;A;-;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Printer/mobile Printer;Client Hardware;Printer/mobile Printer;System;I;-;-;-;-;A;-;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Scanner/mobile Scanner;Client Hardware;Scanner/mobile Scanner;System;I;-;-;-;-;A;C;C;C;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Smartphone;Client Hardware;Smartphone;System;-;-;-;-;-;A;-;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Tablet;Client Hardware;Tablet;System;-;-;-;-;-;A;C;C;C;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Telephone;Client Hardware;Telephone;System;-;-;-;-;-;A;-;C;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Thin Client;Client Hardware;Thin Client;System;-;-;-;-;-;A;C;C;C;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+TV-Monitor;Client Hardware;TV-Monitor;System;-;-;-;-;-;A;-;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+USB-Devices;Client Hardware;USB-Devices;System;-;-;-;-;-;A;-;-;C;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+USB-encryption;Client Hardware;USB-encryption;System;-;-;-;-;-;R;C;-;A;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Microsoft Windows 10;Client Software;Microsoft Windows 10;System;-;-;-;-;-;A;C;-;-;C;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Aircondition;Datacenter;Aircondition;System;-;-;-;-;-;-;A;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Alarmsystem;Datacenter;Alarmsystem;System;-;-;-;-;-;C;R;C;C;-;C;S;S;S;S;-;-;-;-;-;A;;;Element;IT/Lists/RASCI  POC
+Cloudhosting (Server and OS);Datacenter;Cloudhosting (Server and OS);System;-;-;-;-;-;-;A;C;C;-;C;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+DC (Cabeling/Racks/etc);Datacenter;DC (Cabeling/Racks/etc);System;-;-;-;-;-;-;A;C;-;-;-;R;R;R;R;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Microsoft SQL Server;Datacenter;Microsoft SQL Server;System;-;-;-;C;-;-;A;-;-;-;-;-;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Oracle Server;Datacenter;Oracle Server;System;-;-;-;C;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Server (Cisco/Lenovo/HP);Datacenter;Server (Cisco/Lenovo/HP);System;-;-;-;-;-;-;A;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Storage (Netapp etc);Datacenter;Storage (Netapp etc);System;-;-;-;-;-;-;A;C;C;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Tapelibary;Datacenter;Tapelibary;System;-;-;-;-;-;I;A;C;-;-;-;S;S;S;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+UPS;Datacenter;UPS;System;-;-;-;-;-;-;A;-;-;-;-;R;R;R;R;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+CimDataBase DB - CDB;Engineering Applications;CimDataBase DB - CDB;System;-;-;-;C;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Infrastructure FTDS;Global Business Applications;Infrastructure FTDS;System;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Swift (Banking Transfer System);Global Business Applications;Swift (Banking Transfer System);System;-;I;-;-;-;-;R;-;-;-;-;-;-;-;-;-;-;-;-;-;A;Treasury;;Element;IT/Lists/RASCI  POC
+HSM;IT Security;HSM;System;-;-;-;-;-;-;C;-;A;I;I;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Opentrust;IT Security;Opentrust;System;-;-;-;-;-;I;-;-;A;I;I;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+OpenVAS;IT Security;OpenVAS;System;-;-;-;-;-;-;-;-;A;I;I;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+PKI;IT Security;PKI;System;-;-;-;-;-;I;C;-;A;I;I;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Security/Reporting Tools;IT Security;Security/Reporting Tools;System;-;-;-;-;-;I;-;-;A;I;I;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SKLM;IT Security;SKLM;System;-;-;-;-;-;-;C;-;A;I;I;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+CCTV;Local Business Applications;CCTV;System;-;-;-;-;-;-;-;-;-;-;-;S;S;S;S;-;-;-;-;-;A;Plant Manager;;Element;IT/Lists/RASCI  POC
+Fortinet Router/FW;Network;Fortinet Router/FW;System;-;-;-;-;-;-;-;A;C;-;-;I;S;S;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Fortinet VPN;Network;Fortinet VPN;System;-;-;-;-;-;I;-;A;C;-;-;S;S;S;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+NAC (Network Access Control) – CISCO ISE;Network;NAC (Network Access Control) – CISCO ISE;System;-;-;-;-;-;I;-;A;C;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Remote Access / Dial In;Network;Remote Access / Dial In;System;-;-;-;-;-;I;-;A;C;-;-;S;-;S;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Switches;Network;Switches;System;-;-;-;-;-;-;-;A;-;-;-;S;S;S;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Telephonesystem;Network;Telephonesystem;System;-;-;-;-;-;I;C;A;-;-;-;S;S;S;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Videoconference System;Network;Videoconference System;System;-;-;-;-;-;I;C;A;-;-;-;S;S;S;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+WAN-services;Network;WAN-services;System;-;-;-;-;-;I;-;A;C;-;-;I;S;S;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+WiFi;Network;WiFi;System;-;-;-;-;-;I;-;A;C;-;-;S;S;S;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+adobe document server ADS;SAP;adobe document server ADS;System;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Cloud Connector;SAP;SAP Cloud Connector;System;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Infrastructure FTDS (e.g. network/storage/DB);SAP;SAP Infrastructure FTDS (e.g. network/storage/DB);System;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+SAP Webdispatcher;SAP;SAP Webdispatcher;System;A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Spool management CUPS;SAP;Spool management CUPS;System;A;-;-;-;-;-;-;-;I;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Active Directory;Serverapplications;Active Directory;System;-;-;-;-;-;I;A;-;C;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+DHCP;Serverapplications;DHCP;System;-;-;-;-;-;I;A;C;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+DNS;Serverapplications;DNS;System;-;-;-;-;-;I;A;R;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Fileserver;Serverapplications;Fileserver;System;-;-;-;-;-;C;A;-;C;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Linux (Suse/Redhat/CentOS/Ubuntu);Serverapplications;Linux (Suse/Redhat/CentOS/Ubuntu);System;-;-;-;C;-;-;A;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Microsoft Windows Server;Serverapplications;Microsoft Windows Server;System;-;-;-;-;-;-;A;-;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Printserver;Serverapplications;Printserver;System;I;-;-;-;-;R;A;-;C;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+VMWare;Serverapplications;VMWare;System;-;-;-;-;-;I;A;C;-;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Webproxy;Serverapplications;Webproxy;System;-;-;-;-;-;I;A;R;C;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Xenserver;Serverapplications;Xenserver;System;-;-;-;-;-;I;A;C;-;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Access-Monitoring-Tool;System Monitoring;Access-Monitoring-Tool;System;-;-;-;-;-;I;-;-;A;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Check-MK;System Monitoring;Check-MK;System;-;-;-;-;-;A;S;S;S;-;-;S;S;S;S;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Lansweeper/jDisc (Asset-Inventory);System Monitoring;Lansweeper/jDisc (Asset-Inventory);System;-;-;-;-;-;I;A;-;-;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Snorby;System Monitoring;Snorby;System;-;-;-;-;-;-;-;-;A;-;-;-;-;-;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+WSUS;System Monitoring;WSUS;System;-;-;-;-;-;I;R;-;A;-;-;I;I;I;I;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Zabbix;System Monitoring;Zabbix;System;-;-;-;-;-;C;A;C;C;-;-;-;S;I;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
+Fortiauthenticator (FAC);Network;Fortiauthenticator (FAC);System;-;-;-;-;-;-;-;A;C;-;-;I;S;S;-;-;-;-;-;-;-;;;Element;IT/Lists/RASCI  POC
