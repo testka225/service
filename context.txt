@@ -1,0 +1,122 @@
+chapter: IT Vision: ONE IT as strategic Business PartnerOur Core Objectives - Strategic guideline
+one global team
+One global IT team with focus on customer & process-orientation 
+Establishment of appropriate IT Demand Management Process with clear decision process based on priority, value added, costs & capacity
+Think & act globally as one team – eliminate silo thinking especially between local & global 
+
+Strong business connection
+Set up an efficient cooperation / interaction model between IT & business 
+Creation of transparency in order to steer the global IT Organization (e.g. Global Project Portfolio, capacity planning, costs, KPIs) 
+IT has to act instead of react
+
+Efficient IT operations
+IT operations are based on common processes, efficiency &  balanced costs versus quality ratio
+Realize overall cost efficiency, increase flexibility & quality by optimization of IT sourcing
+
+Speed & Innovations 
+Improve alignment between IT strategy & IT operating model (best in integration) with KAPS digitalization initiatives (best in class). 
+Be consistent with technology choices and most important strengthening the building blocks (Focus on platforms). Be innovative, driver for digitalization and increase speed. 
+The success of Artificial Intelligence depends on data and data quality.
+
+
+
+chapter: "IT must continue to evolve so that the organization can make profitable use of modern and future technologies."
+What is KEY & are next steps to become business partner…
+
+…using transparency, processes & tools
+…be proactive & innovative
+…be reliable
+role as business partner (advising, business driven and company-wide accepted)
+
+
+chapter: IT Strategy & Roadmap – Core Objectives
+Strengthen our building blocks MS & SAP (Focus on platforms – best in integration)
+Increase license utilization & Harmonization
+Cloud first - increase flexibility, scalability, stability & security  
+
+
+chapter: it service management and support
+Service Management is responsible for global service catalogue, end-to-end support models, and service management coordination, methodologies, processes and tools 
+
+Core Objective is to provide reliable and efficient IT Services in order to increase user satisfaction
+Increased Productivity: Faster access to IT services and quicker resolution times
+Cost Savings: Optimized processes and more efficient use of resources
+Greater Agility: Rapid adaptation to changing business requirements
+
+Core processes with direct customer interaction that have an immediate impact on the organization's operational performance 
+Service-Desk (Onsite Service) & Service request fulfillment
+Incident-& Problem-Management
+ (Change Management)
+Service Catalogue Management
+Service Level Management & Monitoring
+Service Delivery Meetings
+KPI Dashboard
+
+Core tasks, responsible for the global controlling, development, and standardization of IT Service Management processes to ensure reliable, efficient, and user-centric IT operations worldwide.
+Lead and develop global ITSM teams
+Coordinate & communicate between Application/Infrastructure/Governance and Plants/Regions
+Support implementation & Communication of global strategy 
+Daily operations & plant requests (Application/Infrastructure)
+Director is presented on regular basis in plants worldwide and checks the status on-site
+Develop and implement a global ITSM strategy aligned with IT objectives
+Responsibility of global ITIL-based core processes (Incident, Change, Problem, Service Request, etc.)
+Follow the sun
+Drive implementation and optimization of ITSM tools
+Ensure service quality, SLA compliance, and continuous improvement
+Manage global service providers and IT outsourcing partners
+Establish optimized sourcing strategy (not in every location FTE for Onsite-Support)
+Collaborate closely with business units, IT functions, security, and compliance
+
+
+
+
+chapter: FOCUS areas
+Service Desk Concept, Clean Desk, Clean Office
+-Reliability
+-Appearance & Communication (VIP example: Claudius)
+Data Quality (Incidents & Services)
+-Reliability
+-Ticket Analysis
+Active Design, Performance & Visible Service Quality for Users
+-Target Specifications
+-Proactive Monitoring
+-Proactive Information Sharing
+-Possibly conduct a user survey at the beginning
+
+
+chapter: Targets
+1. Flexibility & Role Distribution
+
+More flexibility in responsibilities (80/20 principle – no rigid 100%)
+ONE IT approach (no strict global/local separation)
+Better balance across areas (mutual support, shared responsibilities)
+Avoid always assigning the same people to projects
+
+
+2. Resource & Workload Management
+
+Distribute workload more evenly
+Ensure sufficient staffing (critical issue from employee survey)
+Use existing employees more cross-functionally and promote their skills
+
+
+3. Clear Expectations & Communication
+
+Define expectations clearly (what we do and what we don’t)
+Improve internal communication (clear and consistent across all levels)
+Reduce misunderstandings and sensitivities (e.g., license questions, Exchange Online communication)
+Address feedback like:
+
+“Why wasn’t I informed?”
+“Communication could have been better.”
+“I don’t officially know about this.”
+“Who decided this and why?”
+
+
+
+
+4. Employee Satisfaction & Collaboration
+
+Increase employee satisfaction (based on survey results)
+Strengthen collaboration, especially cross-functional
+Foster teamwork and reduce silos

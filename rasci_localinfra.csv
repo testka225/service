@@ -1,0 +1,109 @@
+Title;Category;Subcategory;Local Infr. / Apps ME;Local Infr. / Apps EE;Local Infr. / Apps SE;Local Infr. / Apps KANA;
+Exchange Mailbox Administration;Client Software;Exchange Mailbox Administration;S;S;S;S;SSSS
+MS-Office (Suite);Client Software;MS-Office (Suite);S;S;S;S;SSSS
+MS-Outlook;Client Software;MS-Outlook;S;S;S;S;SSSS
+other client software;Client Software;other client software;R;R;R;-;RRR-
+Standard Software from Catalogue;Client Software;Standard Software from Catalogue;S;S;S;S;SSSS
+Code2/Email Signature;Collaboration Applications;Code2/Email Signature;I;I;I;I;IIII
+Exchange Server;Collaboration Applications;Exchange Server;I;I;I;I;IIII
+MS-Teams;Collaboration Applications;MS-Teams;I;I;I;I;IIII
+O365;Collaboration Applications;O365;I;I;I;I;IIII
+Skype/Lync;Collaboration Applications;Skype/Lync;S;S;S;S;SSSS
+CAx (Catia/NX/Visi);Engineering Applications;CAx (Catia/NX/Visi);S;S;S;S;SSSS
+Licensemanager CAX;Engineering Applications;Licensemanager CAX;-;S;-;S;-S-S
+Spinfire (Viewer);Engineering Applications;Spinfire (Viewer);S;S;S;S;SSSS
+Workspace Manager;Engineering Applications;Workspace Manager;S;S;S;S;SSSS
+CAQ/PMM (Prüfmittelverwaltung);Global Business Applications;CAQ/PMM (Prüfmittelverwaltung);S;S;S;S;SSSS
+Mobisys;Global Business Applications;Mobisys;-;-;-;I;---I
+myBusiness.AI (Layer Audit);Global Business Applications;myBusiness.AI (Layer Audit);S;S;S;-;SSS-
+PiWeb;Global Business Applications;PiWeb;S;S;S;-;SSS-
+xFlow (Invoice Management);Global Business Applications;xFlow (Invoice Management);S;-;-;-;S---
+ASSP-Spamfilter;IT Security;ASSP-Spamfilter;I;I;I;I;IIII
+ISMS - Information Security Management System;IT Security;ISMS - Information Security Management System;C;C;C;C;CCCC
+Trend Micro;IT Security;Trend Micro;S;S;S;S;SSSS
+I-Doit (IT-Documentation Tool);IT-Service Applications;I-Doit (IT-Documentation Tool);I;I;I;I;IIII
+MDM-Mobile Device Management;IT-Service Applications;MDM-Mobile Device Management;S;S;S;S;SSSS
+Mobicontrol;IT-Service Applications;Mobicontrol;R;S;S;S;RSSS
+Servicedesk Plus (Ticketsystem);IT-Service Applications;Servicedesk Plus (Ticketsystem);I;I;I;I;IIII
+Servicedesk Plus Processes;IT-Service Applications;Servicedesk Plus Processes;I;I;I;I;IIII
+Softwaredeployment - Packaging;IT-Service Applications;Softwaredeployment - Packaging;S;I;I;S;SIIS
+Softwaredeployment (Empirum/SCCM) - Admin;IT-Service Applications;Softwaredeployment (Empirum/SCCM) - Admin;I;I;I;I;IIII
+Teamviewer;IT-Service Applications;Teamviewer;I;I;I;I;IIII
+Clarity;Local Business Applications;Clarity;-;-;-;S;---S
+HR One;Local Business Applications;HR One;S;-;-;-;S---
+Lanus;Local Business Applications;Lanus;-;S;-;-;-S--
+NEXONBér;Local Business Applications;NEXONBér;-;S;-;-;-S--
+Paisy (HR);Local Business Applications;Paisy (HR);S;-;-;-;S---
+Paycor;Local Business Applications;Paycor;-;-;-;S;---S
+PLM-NewToolshop-ATT;Local Business Applications;PLM-NewToolshop-ATT;S;-;-;-;S---
+Quality Measure Software;Local Business Applications;Quality Measure Software;S;S;S;S;SSSS
+Sage Payroll;Local Business Applications;Sage Payroll;S;-;-;-;S---
+SAL;Local Business Applications;SAL;-;S;-;-;-S--
+S-Check (TIA) HR;Local Business Applications;S-Check (TIA) HR;R;-;-;-;R---
+S-Check (TIA) Vendor/Customer;Local Business Applications;S-Check (TIA) Vendor/Customer;R;-;-;-;R---
+Simple (Poland) (HR);Local Business Applications;Simple (Poland) (HR);-;S;-;-;-S--
+Tress;Local Business Applications;Tress;-;-;-;S;---S
+Truck Guidance System;Local Business Applications;Truck Guidance System;S;-;-;-;S---
+uMan RH;Local Business Applications;uMan RH;-;-;S;-;--S-
+Zeus (Timemanagement/Access control);Local Business Applications;Zeus (Timemanagement/Access control);S;-;-;-;S---
+LiquidFiles;Serverapplications;LiquidFiles;I;I;I;I;IIII
+Netvault;Serverapplications;Netvault;S;S;S;-;SSS-
+Symantec Enterprise Vault;Serverapplications;Symantec  Enterprise Vault;I;I;I;I;IIII
+Hydra (BDE/MDE);Shopfloor / Production;Hydra (BDE/MDE);S;S;S;S;SSSS
+Hydra server (core application);Shopfloor / Production;Hydra server (core application);S;S;S;S;SSSS
+Mobisys (Scanner and Tablets);Shopfloor / Production;Mobisys (Scanner and Tablets);S;S;S;S;SSSS
+RFID-Systems;Shopfloor / Production;RFID-Systems;S;S;S;S;SSSS
+SFM (Shopfloormanagement);Shopfloor / Production;SFM (Shopfloormanagement);I;I;I;I;IIII
+SAP Password self Service (PSS);SAP;SAP Password self Service (PSS);I;I;I;I;IIII
+Aciveguard;IT Security;Aciveguard;I;I;I;I;IIII
+Camera/Webcam;Client Hardware;Camera/Webcam;S;S;S;S;SSSS
+Headset;Client Hardware;Headset;S;S;S;S;SSSS
+Hydraterminal;Client Hardware;Hydraterminal;S;S;S;S;SSSS
+PC/Laptop;Client Hardware;PC/Laptop;S;S;S;S;SSSS
+PC-Monitor;Client Hardware;PC-Monitor;S;S;S;S;SSSS
+Printer/mobile Printer;Client Hardware;Printer/mobile Printer;S;S;S;S;SSSS
+Scanner/mobile Scanner;Client Hardware;Scanner/mobile Scanner;S;S;S;S;SSSS
+Smartphone;Client Hardware;Smartphone;S;S;S;S;SSSS
+Tablet;Client Hardware;Tablet;S;S;S;S;SSSS
+Telephone;Client Hardware;Telephone;S;S;S;S;SSSS
+Thin Client;Client Hardware;Thin Client;S;S;S;S;SSSS
+TV-Monitor;Client Hardware;TV-Monitor;S;S;S;S;SSSS
+USB-Devices;Client Hardware;USB-Devices;S;S;S;S;SSSS
+USB-encryption;Client Hardware;USB-encryption;S;S;S;S;SSSS
+Microsoft Windows 10;Client Software;Microsoft Windows 10;S;S;S;S;SSSS
+Aircondition;Datacenter;Aircondition;S;S;S;S;SSSS
+Alarmsystem;Datacenter;Alarmsystem;S;S;S;S;SSSS
+DC (Cabeling/Racks/etc);Datacenter;DC (Cabeling/Racks/etc);R;R;R;R;RRRR
+Microsoft SQL Server;Datacenter;Microsoft SQL Server;-;S;S;S;-SSS
+Server (Cisco/Lenovo/HP);Datacenter;Server (Cisco/Lenovo/HP);S;S;S;S;SSSS
+Storage (Netapp etc);Datacenter;Storage (Netapp etc);I;I;I;I;IIII
+Tapelibary;Datacenter;Tapelibary;S;S;S;-;SSS-
+UPS;Datacenter;UPS;R;R;R;R;RRRR
+Opentrust;IT Security;Opentrust;S;S;S;S;SSSS
+OpenVAS;IT Security;OpenVAS;I;I;I;I;IIII
+Security/Reporting Tools;IT Security;Security/Reporting Tools;I;I;I;I;IIII
+CCTV;Local Business Applications;CCTV;S;S;S;S;SSSS
+Fortinet Router/FW;Network;Fortinet Router/FW;I;S;S;-;ISS-
+Fortinet VPN;Network;Fortinet VPN;S;S;S;-;SSS-
+NAC (Network Access Control) – CISCO ISE;Network;NAC (Network Access Control) – CISCO ISE;S;S;S;S;SSSS
+Remote Access / Dial In;Network;Remote Access / Dial In;S;-;S;-;S-S-
+Switches;Network;Switches;S;S;S;-;SSS-
+Telephonesystem;Network;Telephonesystem;S;S;S;-;SSS-
+Videoconference System;Network;Videoconference System;S;S;S;-;SSS-
+WAN-services;Network;WAN-services;I;S;S;-;ISS-
+WiFi;Network;WiFi;S;S;S;-;SSS-
+Active Directory;Serverapplications;Active Directory;S;S;S;S;SSSS
+DHCP;Serverapplications;DHCP;S;S;S;S;SSSS
+DNS;Serverapplications;DNS;S;S;S;S;SSSS
+Fileserver;Serverapplications;Fileserver;S;S;S;S;SSSS
+Linux (Suse/Redhat/CentOS/Ubuntu);Serverapplications;Linux (Suse/Redhat/CentOS/Ubuntu);S;S;S;S;SSSS
+Microsoft Windows Server;Serverapplications;Microsoft Windows Server;S;S;S;S;SSSS
+Printserver;Serverapplications;Printserver;S;S;S;S;SSSS
+VMWare;Serverapplications;VMWare;S;S;S;S;SSSS
+Webproxy;Serverapplications;Webproxy;S;S;S;S;SSSS
+Access-Monitoring-Tool;System Monitoring;Access-Monitoring-Tool;I;I;I;I;IIII
+Check-MK;System Monitoring;Check-MK;S;S;S;S;SSSS
+Lansweeper/jDisc (Asset-Inventory);System Monitoring;Lansweeper/jDisc (Asset-Inventory);I;I;I;I;IIII
+WSUS;System Monitoring;WSUS;I;I;I;I;IIII
+Zabbix;System Monitoring;Zabbix;-;S;I;-;-SI-
+Fortiauthenticator (FAC);Network;Fortiauthenticator (FAC);I;S;S;-;ISS-
